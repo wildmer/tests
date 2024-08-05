@@ -13,3 +13,5 @@ for line in data.split("\n"):
         print(version)
         # print(line.strip())
         break
+
+# print(data)
